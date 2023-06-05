@@ -1,0 +1,47 @@
+﻿  Tree.cpp
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(57,24): error C2061: синтаксическая ошибка: идентификатор "vector"
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(106,2): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "btree<T>"
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(59,24): error C2061: синтаксическая ошибка: идентификатор "vector"
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(100,19): error C2061: синтаксическая ошибка: идентификатор "vector"
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(134,35): error C2065: cout: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(134,35): error C3861: cout: идентификатор не найден
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(135,3): error C3861: cout: идентификатор не найден
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(135,30): error C3861: endl: идентификатор не найден
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(135,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(135,30): error C2065: endl: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(141,16): error C2182: "fill_vector_data": недопустимое использование "void"
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(141,1): error C2470: btree<T>::fill_vector_data: выглядит как определение функции, но без списка параметров; пропускается вероятное тело функции
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(141,1): error C2072: btree<T>::fill_vector_data: инициализация функции
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(141,33): error C2065: vector: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(141,40): error C2062: тип "double" не требуется
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(142,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(142,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(152,16): error C2182: "make_search_tree": недопустимое использование "void"
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(152,1): error C2470: btree<T>::make_search_tree: выглядит как определение функции, но без списка параметров; пропускается вероятное тело функции
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(152,1): error C2072: btree<T>::make_search_tree: инициализация функции
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(152,33): error C2065: vector: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(152,40): error C2062: тип "double" не требуется
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(153,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(153,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(226,3): error C2065: cout: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(226,3): error C3861: cout: идентификатор не найден
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(226,29): error C3861: endl: идентификатор не найден
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(226,29): error C2065: endl: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(287,16): error C2182: "make_search": недопустимое использование "void"
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(287,1): error C2470: btree<T>::make_search: выглядит как определение функции, но без списка параметров; пропускается вероятное тело функции
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(287,1): error C2072: btree<T>::make_search: инициализация функции
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(287,28): error C2065: vector: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(287,35): error C2062: тип "double" не требуется
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(288,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(288,1): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(407,2): error C2065: string: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(407,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "s"
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(407,9): error C2065: s: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(407,13): error C3861: to_string: идентификатор не найден
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(408,22): error C2065: s: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(408,35): error C3078: размер массива должен быть указан в новых выражениях без инициализатора
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(409,27): error C2065: s: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(410,11): error C2065: s: необъявленный идентификатор
+C:\Users\Vivobook14pro\source\repos\Project5\Project5\Tree.h(412,5): error C2065: s: необъявленный идентификатор
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\shared\minwindef.h(127,1): warning C4005: CALLBACK: изменение макроопределения
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\glut.h(33,1): message : см. предыдущее определение "CALLBACK"
